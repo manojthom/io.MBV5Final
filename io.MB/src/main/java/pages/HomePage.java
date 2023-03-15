@@ -61,9 +61,7 @@ public class HomePage {
 	/*
 	 *			Web elements     
 	 */
-	By txtbx_Search = By.xpath("//*[@id=\"searchId\"]");
-	By btn_Search = By.id("searchBtn");
-	By tble_resultRows = By.xpath("//*[@id='tableJobId']/table/tbody/tr");
+
 		
 		By obj_shadowElementHost1HomePage = By.xpath(commonMethords.fetchFromObjectRepo("obj_shadowElementHost1HomePage"));
 		By obj_shadowEleCarTypes = By.className(commonMethords.fetchFromObjectRepo("obj_shadowEleCarTypes"));
