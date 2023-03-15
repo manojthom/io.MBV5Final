@@ -1,0 +1,300 @@
+[INFO ] 2023-03-15 00:01:14.673 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:01:15.717 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:01:21.114 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:01:22.206 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:01:22.455 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:01:22.672 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:01:29.350 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:01:30.467 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:01:30.654 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:01:34.280 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:01:37.828 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:01:44.011 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:01:44.403 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:01:44.497 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:01:44.584 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:01:44.584 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:01:44.586 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:01:44.586 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:01:44.586 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:01:50.286 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:03:54.505 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:03:55.530 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:04:00.947 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:04:01.974 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:04:02.032 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:04:02.366 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:04:08.848 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:04:09.938 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:04:10.088 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:04:12.628 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:04:15.651 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:04:21.970 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:04:22.422 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:04:22.543 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:04:22.692 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:04:22.692 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:04:22.695 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:04:22.695 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:04:22.696 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:04:28.433 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:05:07.695 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:05:08.714 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:05:14.114 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:05:15.151 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:05:15.219 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:05:15.364 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:05:21.843 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:05:22.950 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:05:23.103 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:05:25.662 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:05:29.458 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:05:35.781 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:05:36.385 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:05:36.474 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:05:36.561 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:05:36.561 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:05:36.563 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:05:36.563 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:05:36.563 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:05:42.313 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:08:04.468 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:08:05.486 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:08:06.187 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:08:07.221 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:08:11.757 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:08:12.688 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:08:14.571 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:08:14.572 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:08:15.684 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:08:15.684 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:08:19.539 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:08:19.541 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:08:28.515 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:08:28.546 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:08:29.656 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:08:29.696 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:08:30.763 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:08:30.770 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:08:38.049 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:08:38.338 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:08:45.246 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:08:45.786 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:08:51.648 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:08:53.091 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:08:55.090 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:08:55.090 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:08:55.825 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:08:55.825 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:08:55.930 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:08:55.930 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:08:55.931 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:08:55.931 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:08:55.933 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:08:55.934 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:08:55.934 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:08:55.934 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:08:55.934 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:08:55.934 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:09:02.524 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:09:02.539 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:12:41.665 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:12:42.685 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:12:48.029 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:12:49.055 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:12:49.087 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:12:49.145 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:12:55.644 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:12:56.738 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:12:56.883 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:12:59.507 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:13:02.555 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:13:08.703 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:13:09.148 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:13:09.261 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:13:09.356 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:13:09.357 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:13:09.359 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:13:09.360 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:13:09.360 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:13:15.108 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:26:51.609 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:26:52.629 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:26:58.079 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:26:59.107 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:26:59.139 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:26:59.212 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:27:05.738 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:27:06.834 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:27:06.987 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:27:10.140 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:27:13.390 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:27:19.583 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:27:20.018 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:27:20.108 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:27:20.193 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:27:20.193 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:27:20.195 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:27:20.195 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:27:20.195 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:27:25.969 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:53:51.883 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:53:52.892 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:53:58.289 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:53:59.309 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:53:59.349 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:53:59.527 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:54:06.139 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:54:07.235 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:54:07.463 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:54:09.868 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:54:13.378 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:54:19.575 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:54:19.957 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:54:20.068 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:54:20.153 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:54:20.153 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:54:20.155 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:54:20.155 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:54:20.155 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:54:25.838 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:56:22.882 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:56:23.905 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:56:29.298 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:56:30.321 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:56:30.354 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:56:30.424 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:56:37.081 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:56:38.227 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:56:38.410 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:56:41.672 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:56:44.786 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:56:50.931 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:56:51.248 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:56:51.324 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:56:51.395 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:56:51.396 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:56:51.397 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:56:51.397 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:56:51.397 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:56:57.017 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 00:58:37.675 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 00:58:38.686 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 00:58:44.150 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 00:58:45.174 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 00:58:45.204 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 00:58:45.268 [main] Log - Click our Models
+[INFO ] 2023-03-15 00:58:51.776 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 00:58:52.868 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 00:58:53.016 [main] Log - Mousehovered
+[INFO ] 2023-03-15 00:58:55.945 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 00:58:59.273 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 00:59:05.395 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 00:59:05.711 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 00:59:05.779 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 00:59:05.856 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:59:05.857 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:59:05.858 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 00:59:05.858 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 00:59:05.858 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 00:59:11.471 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 01:11:40.363 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 01:11:41.377 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 01:11:46.847 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 01:11:47.870 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 01:11:47.913 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 01:11:47.994 [main] Log - Click our Models
+[INFO ] 2023-03-15 01:11:54.554 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 01:11:55.660 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 01:11:55.809 [main] Log - Mousehovered
+[INFO ] 2023-03-15 01:11:58.420 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 01:12:01.863 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 01:12:08.052 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 01:12:08.381 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 01:12:08.426 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 01:12:08.488 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:12:08.488 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:12:08.490 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:12:08.490 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:12:08.490 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 01:12:14.264 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 01:16:40.801 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 01:16:41.810 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 01:16:47.218 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 01:16:48.241 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 01:16:48.293 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 01:16:48.411 [main] Log - Click our Models
+[INFO ] 2023-03-15 01:16:54.873 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 01:16:55.968 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 01:16:56.115 [main] Log - Mousehovered
+[INFO ] 2023-03-15 01:16:59.537 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 01:17:02.712 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 01:17:08.892 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 01:17:09.283 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 01:17:09.350 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 01:17:09.427 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:17:09.427 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:17:09.458 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:17:09.459 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:17:09.461 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 01:17:15.294 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 01:18:31.666 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 01:18:32.673 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 01:18:38.160 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 01:18:39.181 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 01:18:39.217 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 01:18:39.291 [main] Log - Click our Models
+[INFO ] 2023-03-15 01:18:45.734 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 01:18:46.840 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 01:18:47.003 [main] Log - Mousehovered
+[INFO ] 2023-03-15 01:18:50.986 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 01:18:54.096 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 01:19:00.271 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 01:19:00.574 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 01:19:00.626 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 01:19:00.686 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:19:00.686 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:19:00.688 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:19:00.688 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:19:00.688 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 01:19:06.292 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 01:22:06.870 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 01:22:07.888 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 01:22:13.279 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 01:22:14.309 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 01:22:14.345 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 01:22:14.432 [main] Log - Click our Models
+[INFO ] 2023-03-15 01:22:20.926 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 01:22:22.039 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 01:22:22.190 [main] Log - Mousehovered
+[INFO ] 2023-03-15 01:22:24.190 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 01:22:27.651 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 01:22:33.909 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 01:22:34.245 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 01:22:34.330 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 01:22:34.397 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:22:34.398 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:22:34.400 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:22:34.401 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:22:34.401 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 01:22:40.078 [main] Log - Clicked On Maxprice Color£825
+[INFO ] 2023-03-15 01:23:43.820 [main] Log - In Methord Accept Cookies
+[INFO ] 2023-03-15 01:23:44.839 [main] Log - Clicking on Accept Cookies JS 
+[INFO ] 2023-03-15 01:23:50.182 [main] Log - Exiting AcceptCookies Methord 
+[INFO ] 2023-03-15 01:23:51.209 [main] Log - Tests is starting!
+[INFO ] 2023-03-15 01:23:51.247 [main] Log - TC Validate price range of ClasssA is in range
+[INFO ] 2023-03-15 01:23:51.316 [main] Log - Click our Models
+[INFO ] 2023-03-15 01:23:57.792 [main] Log - Clicking hatchback 3
+[INFO ] 2023-03-15 01:23:58.907 [main] Log - In Select Class A Hatchback 
+[INFO ] 2023-03-15 01:23:59.065 [main] Log - Mousehovered
+[INFO ] 2023-03-15 01:24:01.583 [main] Log - Clicked On hatchback 
+[INFO ] 2023-03-15 01:24:04.827 [main] Log - Moved to Filter 
+[INFO ] 2023-03-15 01:24:11.041 [main] Log - Selected FuelType button click 
+[INFO ] 2023-03-15 01:24:11.437 [main] Log - Selected Deisel
+[INFO ] 2023-03-15 01:24:11.516 [main] Log - Master list of all A car Models Deisel  - 4
+[INFO ] 2023-03-15 01:24:11.597 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:24:11.597 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:24:11.599 [main] Log -  MinValue of Array  : 34500
+[INFO ] 2023-03-15 01:24:11.599 [main] Log -  MaxValue of Array  : 41890
+[INFO ] 2023-03-15 01:24:11.599 [main] Log - deltaPriceForPaint
+[INFO ] 2023-03-15 01:24:17.314 [main] Log - Clicked On Maxprice Color£825

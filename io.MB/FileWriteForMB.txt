@@ -1,0 +1,2 @@
+ Min Car Price : 41890
+ Max Car Price : 34500

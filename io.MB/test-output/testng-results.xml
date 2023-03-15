@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T01:23:31 GMT" name="Default suite" finished-at="2023-03-15T01:24:22 GMT" duration-ms="51475">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T01:23:31 GMT" name="Default test" finished-at="2023-03-15T01:24:22 GMT" duration-ms="51475">
+      <class name="testCases.TestHome">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:31 GMT" name="beforeTest" finished-at="2023-03-15T01:23:51 GMT" duration-ms="19813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="classLevelSetup" finished-at="2023-03-15T01:23:51 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelSetup -->
+        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="methodLevelSetup" finished-at="2023-03-15T01:23:51 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method signature="TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method)[pri:1, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="TC_Validate_price_range_of_ClassA_is_in_range" description="TC Validdate all prices of class A model is in range" finished-at="2023-03-15T01:24:22 GMT" duration-ms="31609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TestHome.TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method) throws java.lang.InterruptedException,java.text.ParseException,java.lang.NumberFormatException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Validate_price_range_of_ClassA_is_in_range -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="getResult" finished-at="2023-03-15T01:24:22 GMT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_Validate_price_range_of_ClassA_is_in_range status=SUCCESS method=TestHome.TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method)[pri:1, instance:testCases.TestHome@6f46426d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="afterTest" finished-at="2023-03-15T01:24:22 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="afterSuite" finished-at="2023-03-15T01:24:23 GMT" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.TestHome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
