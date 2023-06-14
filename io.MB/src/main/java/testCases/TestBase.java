@@ -32,12 +32,11 @@ import pages.HomePage;
 import utils.CommonMethords;
 import utils.Log;
 
-public class BasePage {
+public class TestBase {
 	 public WebDriver driver; 
-	 HomePage homePage;
-	 
-	 
+	HomePage homePage; 
 	CommonMethords commonMethords = new CommonMethords();
+	
 	ChromeOptions chromeOptions = new ChromeOptions();
 	ExtentSparkReporter  htmlReporter;
     ExtentReports extent;
@@ -50,12 +49,12 @@ public class BasePage {
 		 htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir") +"/extent-reports/MBExtentReport"+ commonMethords.createFileName()+".html");
 	     extent = new ExtentReports ();
 	     extent.attachReporter(htmlReporter);
-	     extent.setSystemInfo("Environment", " MB Suite");
-	     extent.setSystemInfo("User Name", "M Thomas");
+	     extent.setSystemInfo("Environment", " Production Envirionment");
+	     extent.setSystemInfo("User Name", "Manoj Thomas");
 	     BasicConfigurator.configure();
 	     
 
-	     htmlReporter.config().setDocumentTitle(" MB Techassignment");
+	     htmlReporter.config().setDocumentTitle(" Technical Assignment Benz");
 	     htmlReporter.config().setReportName("Extent Report - Tech Analysis");
 	      	driver = commonMethords.openBrowser();
 			driver.get(commonMethords.fetchPropertyValueFromEnvConfig("url"));
