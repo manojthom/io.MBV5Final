@@ -25,7 +25,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 
-public class TestHome extends BasePage {
+public class TestHome extends TestBase {
 	
 	
 	

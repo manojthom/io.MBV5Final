@@ -1,51 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-15T01:23:31 GMT" name="Default suite" finished-at="2023-03-15T01:24:22 GMT" duration-ms="51475">
+  <suite started-at="2023-06-14T08:50:12 WEST" name="Default suite" finished-at="2023-06-14T08:50:27 WEST" duration-ms="15605">
     <groups>
     </groups>
-    <test started-at="2023-03-15T01:23:31 GMT" name="Default test" finished-at="2023-03-15T01:24:22 GMT" duration-ms="51475">
+    <test started-at="2023-06-14T08:50:12 WEST" name="Default test" finished-at="2023-06-14T08:50:27 WEST" duration-ms="15605">
       <class name="testCases.TestHome">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:31 GMT" name="beforeTest" finished-at="2023-03-15T01:23:51 GMT" duration-ms="19813" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:12 WEST" name="beforeTest" finished-at="2023-06-14T08:50:27 WEST" duration-ms="15585" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.click()" because "accept_cookies" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because "accept_cookies" is null
+at pages.HomePage.acceptCookies(HomePage.java:75)
+at testCases.BasePage.beforeTest(BasePage.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:619)
+at org.testng.TestRunner.beforeRun(TestRunner.java:609)
+at org.testng.TestRunner.run(TestRunner.java:580)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="classLevelSetup" finished-at="2023-03-15T01:23:51 GMT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="classLevelSetup()[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="classLevelSetup" finished-at="1970-01-01T01:00:00 WET" duration-ms="-1686729027656" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- classLevelSetup -->
-        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="methodLevelSetup" finished-at="2023-03-15T01:23:51 GMT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- methodLevelSetup -->
-        <test-method signature="TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method)[pri:1, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:23:51 GMT" name="TC_Validate_price_range_of_ClassA_is_in_range" description="TC Validdate all prices of class A model is in range" finished-at="2023-03-15T01:24:22 GMT" duration-ms="31609" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testCases.TestHome.TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method) throws java.lang.InterruptedException,java.text.ParseException,java.lang.NumberFormatException,java.io.IOException]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method)[pri:1, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="TC_Validate_price_range_of_ClassA_is_in_range" description="TC Validdate all prices of class A model is in range" finished-at="2023-06-14T08:50:27 WEST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebElement.click()" because "accept_cookies" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.click()" because "accept_cookies" is null
+at pages.HomePage.acceptCookies(HomePage.java:75)
+at testCases.BasePage.beforeTest(BasePage.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:619)
+at org.testng.TestRunner.beforeRun(TestRunner.java:609)
+at org.testng.TestRunner.run(TestRunner.java:580)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Validate_price_range_of_ClassA_is_in_range -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="getResult" finished-at="2023-03-15T01:24:22 GMT" duration-ms="2" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_Validate_price_range_of_ClassA_is_in_range status=SUCCESS method=TestHome.TC_Validate_price_range_of_ClassA_is_in_range(java.lang.reflect.Method)[pri:1, instance:testCases.TestHome@6f46426d] output={null}]]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="methodLevelSetup()[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="methodLevelSetup" finished-at="1970-01-01T01:00:00 WET" duration-ms="-1686729027663" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="getResult" finished-at="1970-01-01T01:00:00 WET" duration-ms="-1686729027664" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="afterTest" finished-at="2023-03-15T01:24:22 GMT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="afterTest" finished-at="1970-01-01T01:00:00 WET" duration-ms="-1686729027666" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.TestHome@6f46426d]" started-at="2023-03-15T01:24:22 GMT" name="afterSuite" finished-at="2023-03-15T01:24:23 GMT" duration-ms="528" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.TestHome@4a7f959b]" started-at="2023-06-14T08:50:27 WEST" name="afterSuite" finished-at="1970-01-01T01:00:00 WET" duration-ms="-1686729027680" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

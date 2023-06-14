@@ -46,13 +46,10 @@ public class HomePage extends BasePage {
 	 * @author Manoj Thomas
 	 * 
 	 */
-
-	
-        
+       
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 	}
-
 	
 		By obj_shadowElementHost1HomePage = By.xpath(commonMethords.fetchFromObjectRepo("obj_shadowElementHost1HomePage"));
 		By obj_shadowEleCarTypes = By.className(commonMethords.fetchFromObjectRepo("obj_shadowEleCarTypes"));
@@ -66,10 +63,6 @@ public class HomePage extends BasePage {
 		
 
 	int minPriceOneWebsite=-1, maxPriceOnWebsite=0;
-	/**
-	 * {@summary This methords clicks the accept cookies button when browser is intialalized, Uses JS for clicking the button}
-	 * @throws InterruptedException
-	 */
 	
 	public void acceptCookies () throws InterruptedException {
 		
