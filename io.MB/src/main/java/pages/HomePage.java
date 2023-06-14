@@ -40,29 +40,20 @@ import utils.CommonMethords;
 import utils.Log;
 import utils.PropertiesFileMethords;
 
-public class HomePage {
+public class HomePage extends BasePage {
 
 	/**
 	 * @author Manoj Thomas
 	 * 
 	 */
 
-	// Objects 
-	WebDriver driver;
-	CommonMethords commonMethords = new CommonMethords();
-	PropertiesFileMethords propertiesFileMethord = new PropertiesFileMethords();
 	
-
         
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 	}
-    
-	/*
-	 *			Web elements     
-	 */
 
-		
+	
 		By obj_shadowElementHost1HomePage = By.xpath(commonMethords.fetchFromObjectRepo("obj_shadowElementHost1HomePage"));
 		By obj_shadowEleCarTypes = By.className(commonMethords.fetchFromObjectRepo("obj_shadowEleCarTypes"));
 		By obj_shatbackAClasssArea = By.className(commonMethords.fetchFromObjectRepo("obj_shatbackAClasssArea"));
